@@ -1,4 +1,4 @@
-#Projet d'Analyse Socio-Economique avec Gapminder (2007)
+Projet d'Analyse Socio-Economique avec Gapminder (2007)
 
 Bienvenue sur ce dépôt. Ce projet a pour but d'explorer les grandes tendances mondiales de l'année 2007 à partir des données de référence de Gapminder, en mettant en lumière les liens entre la richesse, la santé et la population des différents pays.
 
